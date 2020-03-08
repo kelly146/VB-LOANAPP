@@ -1,2 +1,2 @@
 # VB-LOANAPP
-Desktop Based Loan App
+Desktop Based Loan App for companies
